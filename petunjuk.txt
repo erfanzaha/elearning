@@ -1,0 +1,4 @@
+1. Upload file dataweb.zip ke hosting Anda di root public_html 
+2. Buat database di PHPMYADMIN dengan nama db_elearning ,
+3. Import database.zip lewat phpmyadmin
+4. buka folder __app/config/databse.php sesuaikan host, username dan password database Anda
